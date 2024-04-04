@@ -10,7 +10,7 @@ const Navbar = () => {
     
 
     return (
-        <nav className= 'w-screen h-20 bg-transparent'>
+        <nav className= 'w-screen h-20 bg-white'>
             <div className='pt-6 w-screen flex justify-between absolute z-20'>
                 <img
                     className='pl-3 w-32' 
