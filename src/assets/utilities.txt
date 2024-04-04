@@ -1,0 +1,54 @@
+LOGO NAV:
+    https://moonli.me/wp-content/uploads/2022/03/moonli-logo-black.svg
+LOGO FOOTER:
+    https://moonli.me/wp-content/uploads/2022/03/moonli-logo-white.svg
+
+MAIN:
+    https://moonli.me/wp-content/themes/moonli/images/hero_background.png
+
+MAIN MOBILE:
+    https://moonli.me/wp-content/themes/moonli/images/hero_background_mobile.png
+
+
+CELESTIA LOGO:
+    https://moonli.me/wp-content/uploads/2023/10/celestia-color-1.svg
+CELO LOGO:
+    https://moonli.me/wp-content/uploads/2022/03/logo1.svg
+GRAPH LOGO:
+    https://moonli.me/wp-content/uploads/2022/03/logo4.svg
+CENTRIFUGE LOGO:
+    https://moonli.me/wp-content/uploads/2022/03/logo7.svg
+MINA LOGO:
+    https://moonli.me/wp-content/uploads/2022/03/logo6.svg
+OASIS LOGO:
+    https://moonli.me/wp-content/uploads/2022/03/logo8.svg
+REGEN LOGO:
+    https://moonli.me/wp-content/uploads/2022/03/logo11.svg
+
+
+TOP 30:
+    https://moonli.me/wp-content/uploads/2022/04/image-125.png
+PROTOCOL:
+    https://moonli.me/wp-content/uploads/2022/04/image-124.png
+NETWORK:
+    https://moonli.me/wp-content/uploads/2022/04/image-123.png
+RIABILITY:
+    https://moonli.me/wp-content/uploads/2022/04/image-122.png
+
+GIVING BACK:
+    https://moonli.me/wp-content/uploads/2022/04/image-129.png
+
+
+SLIDE 1:
+    https://moonli.me/wp-content/uploads/2022/04/Group-48096004.png
+    https://moonli.me/wp-content/uploads/2022/04/Group-48096000.png
+    https://moonli.me/wp-content/uploads/2022/04/logo.png
+    https://moonli.me/wp-content/uploads/2022/04/Group-48096006.png
+    https://moonli.me/wp-content/uploads/2022/04/Group-48096005.png
+
+SLIDE 2:
+    https://moonli.me/wp-content/uploads/2022/04/Group-48096001.png
+    https://moonli.me/wp-content/uploads/2022/04/Group-48096001.png
+    https://moonli.me/wp-content/uploads/2022/04/Group-48096007.png
+    https://moonli.me/wp-content/uploads/2022/04/Group-48096009.png
+    https://moonli.me/wp-content/uploads/2022/04/Group-48096008.png
