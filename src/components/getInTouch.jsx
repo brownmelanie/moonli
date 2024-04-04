@@ -8,7 +8,7 @@ const GetInTouch = () => {
             <img className="mx-3" width="50" height="50" src="https://img.icons8.com/ios-filled/50/twitter-circled--v1.png" alt="twitter"/>
             <img width="50" height="50" src="https://img.icons8.com/ios-glyphs/50/circled-envelope.png" alt="email"/>
         </div>
-        <img src="../../src/assets/getInTouch.png" alt="" />
+        <img src="../../getInTouch.png" alt="" />
         </>
     )
 }

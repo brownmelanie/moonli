@@ -27,7 +27,7 @@ const Navbar = () => {
                 </button>
             </div>
 
-            <ul className={`bg-[#b8ff65] absolute z-10 h-screen w-screen text-center top-[-100%] left-1/2 transform -translate-x-1/2 duration-500 ease-in flex flex-col justify-evenly items-center ${open ? 'pt-24 top-[0%]' : '-top-[100%]'}`}>
+            <ul className={`bg-[#b8ff65] absolute z-10 h-screen w-screen text-center top-[-100%] left-1/2 transform -translate-x-1/2 duration-500 ease-in flex flex-col justify-evenly items-center ${open ? 'pt-24 top-[0%]' : '-top-[200%]'}`}>
                 <li >
                     <a href="#" className="text-black">Networks</a>
                 </li>
