@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import { Bars2Icon, XMarkIcon } from '@heroicons/react/24/solid'
 
 const Navbar = () => {
 
@@ -20,9 +19,10 @@ const Navbar = () => {
 
                 <button onClick={toggleButton} className='pr-4'>
                     {open ? (
-                        <XMarkIcon className='w-7 h-auto cursor-pointer'/>
+                        <img className='w-7 h-auto cursor-pointer' src="https://img.icons8.com/material-sharp/24/multiply.png" alt="multiply"/>
                         ) : (
-                        <Bars2Icon className='w-7 h-auto cursor-pointer'/>
+                        <img className='w-7 h-auto cursor-pointer' src="https://img.icons8.com/ios-filled/50/menu--v6.png" alt="menu--v6"/>
+                    
                     )}
                 </button>
             </div>
