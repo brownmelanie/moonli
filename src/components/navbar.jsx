@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState } from 'react';
 
 const Navbar = () => {
 
@@ -7,7 +7,6 @@ const Navbar = () => {
     const toggleButton = () => {
         setOpen(!open)
     }
-    
 
     return (
         <nav className= 'w-screen h-20 bg-white'>
@@ -22,12 +21,11 @@ const Navbar = () => {
                         <img className='w-7 h-auto cursor-pointer' src="https://img.icons8.com/material-sharp/24/multiply.png" alt="multiply"/>
                         ) : (
                         <img className='w-7 h-auto cursor-pointer' src="https://img.icons8.com/ios-filled/50/menu--v6.png" alt="menu--v6"/>
-                    
                     )}
                 </button>
             </div>
 
-            <ul className={`bg-[#b8ff65] absolute z-10 h-screen w-screen text-center top-[-100%] left-1/2 transform -translate-x-1/2 duration-500 ease-in flex flex-col justify-evenly items-center ${open ? 'pt-24 top-[0%]' : '-top-[200%]'}`}>
+            <ul className={`bg-[#b8ff65] absolute z-10 h-screen w-screen text-center top-[-100%] left-1/2 transform -translate-x-1/2 duration-500 ease-in flex flex-col justify-evenly items-center ${open ? 'pt-24 top-[0%]' : '-top-[1000%]'}`}>
                 <li >
                     <a href="#" className="text-black">Networks</a>
                 </li>
@@ -43,7 +41,9 @@ const Navbar = () => {
                 <li>
                     <a href="#" className="text-black">Get in Touch</a>
                 </li>
-                <button className='bg-black rounded-3xl w-64 h-12 text-white mt-20 mb-14'>Stake Now</button>
+                <li>
+                    <button className='bg-black rounded-3xl w-64 h-12 text-white mt-20 mb-14'>Stake Now</button>
+                </li>
             </ul>
         </nav>        
     )
