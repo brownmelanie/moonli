@@ -11,10 +11,12 @@ const Navbar = () => {
     return (
         <nav className= 'w-screen h-20 bg-white'>
             <div className='pt-6 w-screen flex justify-between absolute z-20'>
+                <a href="#">
                 <img
                     className='pl-3 w-32' 
                     src="https://moonli.me/wp-content/uploads/2022/03/moonli-logo-black.svg" 
                     alt="Moonli logo"/>
+                </a>
 
                 <button onClick={toggleButton} className='pr-4'>
                     {open ? (
@@ -26,20 +28,20 @@ const Navbar = () => {
             </div>
 
             <ul className={`bg-[#b8ff65] absolute z-10 h-screen w-screen text-center top-[-100%] left-1/2 transform -translate-x-1/2 duration-500 ease-in flex flex-col justify-evenly items-center ${open ? 'pt-24 top-[0%]' : '-top-[1000%]'}`}>
-                <li >
-                    <a href="#" className="text-black">Networks</a>
+                <li>
+                    <a href="#networks" className="text-black">Networks</a>
                 </li>
                 <li>
-                    <a href="#" className="text-black">Selection</a>
+                    <a href="#selection" className="text-black">Selection</a>
                 </li>
                 <li>
-                    <a href="#" className="text-black">Reliability</a>
+                    <a href="#reliability" className="text-black">Reliability</a>
                 </li>
                 <li>
-                    <a href="#" className="text-black">Giving Back</a>
+                    <a href="#givingBack" className="text-black">Giving Back</a>
                 </li>
                 <li>
-                    <a href="#" className="text-black">Get in Touch</a>
+                    <a href="#getInTouch" className="text-black">Get in Touch</a>
                 </li>
                 <li>
                     <button className='bg-black rounded-3xl w-64 h-12 text-white mt-20 mb-14'>Stake Now</button>

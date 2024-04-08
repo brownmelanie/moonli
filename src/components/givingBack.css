@@ -1,0 +1,56 @@
+.banner-wrapper {
+    width: 100%;
+    overflow: hidden;
+    padding-top: 30px;
+}
+.banner-wrapper .wrapper{
+    display: flex;
+}
+.banner-wrapper .wrapper .images {
+    display: flex;
+    animation: swipe 15000ms linear infinite;
+}
+.banner-wrapper .wrapper .images img{
+    max-width: 120px;
+    height: 120px;
+    object-fit: cover;
+    padding: 10px 10px;
+}
+
+@keyframes swipe {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+
+.banner-wrapper-R {
+    width: 100%;
+    overflow: hidden;
+    padding-top: 15px;
+}
+.banner-wrapper-R .wrapper-R {
+    display: flex;
+}
+.banner-wrapper-R .wrapper-R .images-R {
+    display: flex;
+    animation: swipeR 15000ms linear infinite;
+}
+.banner-wrapper-R .wrapper-R .images-R img{
+    max-width: 150px;
+    height: 150px;
+    object-fit: cover;
+    padding: 0px 10px 50px;
+}
+
+@keyframes swipeR {
+    0% {
+        transform: translateX(-100%);
+    }
+    100% {
+        transform: translateX(0%);
+    }
+}

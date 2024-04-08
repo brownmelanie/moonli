@@ -8,8 +8,8 @@ import Networks from './components/networks'
 import Reliability from './components/reliability'
 import Selection from './components/selection'
 
-function App() {
 
+function App() {
   return (
     <>
       <Navbar/>
