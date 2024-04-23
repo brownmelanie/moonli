@@ -6,6 +6,8 @@ LOGO FOOTER:
 MAIN:
     https://moonli.me/wp-content/themes/moonli/images/hero_background.png
 
+https://moonli.me/wp-content/themes/moonli/images/hero_background.png
+
 MAIN MOBILE:
     https://moonli.me/wp-content/themes/moonli/images/hero_background_mobile.png
 
