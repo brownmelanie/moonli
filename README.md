@@ -1,8 +1,11 @@
-# React + Vite
+# Portfolio Project - BROWN MELANIE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a portfolio project built with ReactJS and Tailwind, and some CSS.
+The dependencies "react-router-dom" and "AOS" were used.
 
-Currently, two official plugins are available:
+To see the original page, click on the following link: https://moonli.me/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+- Email: melaniebrown.dev@gmail.com
+- Linkedin: https://www.linkedin.com/in/brown-melanie/
+
