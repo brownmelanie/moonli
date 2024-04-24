@@ -14,7 +14,7 @@ const GivingBack = () => {
                 src="https://moonli.me/wp-content/uploads/2022/04/image-129.png"
                 alt="Giving back" />
             </div>
-            <div className="bg-[#f3f3f3] rounded-3xl h-[500px] mx-3 mt-3 lg:w-[480px] lg:h-[620px]
+            <div className="bg-[#f3f3f3] rounded-3xl h-[500px] mx-3 mt-3 lg:w-[480px] lg:h-[620px] lg:mt-0
             xl:w-[600px]">
                 <div className='banner-wrapper'> 
                     <div className='wrapper'>

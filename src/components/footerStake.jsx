@@ -9,25 +9,25 @@ const FooterStake = () => {
                 </Link>
                 <ul className="py-5 grid grid-cols-2 auto-rows-[70px] mt-12 lg:flex lg:flex-row lg:mt-0 lg:ml-8 lg:justify-between lg:w-[550px] xl:ml-0 xl:mt-1">
                     <li>
-                        <Link to='/' className="text-white text-[18px] px-5 sm:px-16 lg:px-0">Networks</Link>
+                        <Link to='/' className="text-white text-[18px] px-5 sm:px-16 lg:px-0 hover:text-[#adadad] transition-all">Networks</Link>
                     </li>
                     <li>
-                        <Link to='/' className="text-white text-[18px] px-5 sm:px-16 lg:px-0">Selection</Link>
+                        <Link to='/' className="text-white text-[18px] px-5 sm:px-16 lg:px-0 hover:text-[#adadad] transition-all">Selection</Link>
                     </li>
                     <li>
-                        <Link to='/' className="text-white text-[18px] px-5 sm:px-16 lg:px-0">Reliability</Link>
+                        <Link to='/' className="text-white text-[18px] px-5 sm:px-16 lg:px-0 hover:text-[#adadad] transition-all">Reliability</Link>
                     </li>
                     <li>
-                        <Link to='/' className="text-white text-[18px] px-5 sm:px-16 lg:px-0">Giving Back</Link>
+                        <Link to='/' className="text-white text-[18px] px-5 sm:px-16 lg:px-0 hover:text-[#adadad] transition-all">Giving Back</Link>
                     </li>
                     <li>
-                        <Link to='/' className="text-white text-[18px] px-5 sm:px-16 lg:px-0">Get in Touch</Link>
+                        <Link to='/' className="text-white text-[18px] px-5 sm:px-16 lg:px-0 hover:text-[#adadad] transition-all">Get in Touch</Link>
                     </li>
                 </ul>
-                <Link to='/stakeNow' className='font-DMSans text-white border border-solid border-[#333333] rounded-3xl mb-14 py-3 px-20 md:text-xl lg:px-6 lg:mb-0 lg:mr-5'>Stake Now</Link>
+                <Link to='/stakeNow' className='font-DMSans text-white border border-solid border-[#333333] rounded-3xl mb-14 py-3 px-20 md:text-xl lg:px-6 lg:mb-0 lg:mr-5 hover:bg-[#333333] transition-all'>Stake Now</Link>
             </div>
 
-            <p className="font-DMSans text-[#5e5e5e] text-sm border border-solid border-[#333333] border-x-0 border-b-0 border-t text-center pb-16 pt-4 w-screen lg:pb-10 xl:text-base">Copyright © 2024. All rights reserved.</p>
+            <p className="font-DMSans text-[#5e5e5e] text-sm border border-solid border-[#333333] border-x-0 border-b-0 border-t text-center pb-16 pt-4 w-screen lg:pb-10 xl:text-base">Portfolio project. Click <span className="font-bold underline"><a href="https://moonli.me/" target="blank">here</a></span> to visit the original website</p>
         </footer>
     )
 }

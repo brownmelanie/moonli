@@ -24,7 +24,7 @@ function BackToTopBtn () {
     return (
         <>
             {backToTopButton && (
-                <button className="fixed z-20 w-12 h-12 bg-white rounded-full cursor-pointer border border-solid border-black right-5 bottom-5 md:right-10 md:bottom-10 md:w-14 md:h-14"
+                <button className="fixed z-20 w-12 h-12 bg-white rounded-full cursor-pointer border border-solid border-black right-5 bottom-5 md:right-10 md:bottom-10 md:w-14 md:h-14 hover:bg-[#f3f3f3] transition-all"
                 onClick={scrollUp}>
                     <img className="p-3" src="../../iconUp.png" alt="Icon Up"/>
                 </button>

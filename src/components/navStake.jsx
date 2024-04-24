@@ -31,22 +31,22 @@ const NavStake = () => {
                 <ul className='hidden sm:hidden md:hidden 
                 lg:flex lg:items-center lg:justify-around lg:w-screen lg:h-20 lg:ml-28 xl:ml-44'>
                     <li>
-                        <Link to='/' className='text-black font-DMSans'>Networks</Link>
+                        <Link to='/' className='text-black font-DMSans hover:text-[#5b5b5b] transition-all'>Networks</Link>
                     </li>
                     <li>
-                        <Link to='/' className='text-black font-DMSans'>Selection</Link>
+                        <Link to='/' className='text-black font-DMSans hover:text-[#5b5b5b] transition-all'>Selection</Link>
                     </li>
                     <li>
-                        <Link to='/' className='text-black font-DMSans'>Reliability</Link>
+                        <Link to='/' className='text-black font-DMSans hover:text-[#5b5b5b] transition-all'>Reliability</Link>
                     </li>
                     <li>
-                        <Link to='/' className='text-black font-DMSans'>Giving Back</Link>
+                        <Link to='/' className='text-black font-DMSans hover:text-[#5b5b5b] transition-all'>Giving Back</Link>
                     </li>
                     <li>
-                        <Link to='/' className='text-black font-DMSans'>Get in Touch</Link>
+                        <Link to='/' className='text-black font-DMSans hover:text-[#5b5b5b] transition-all'>Get in Touch</Link>
                     </li>
                     <li>
-                        <button className='font-DMSans bg-white rounded-3xl border border-solid w-28 h-12 text-black mt-14 mb-14 ml-10 mr-5 xl:ml-40'>Stake Now</button>
+                        <button className='font-DMSans bg-white rounded-3xl border border-solid w-28 h-12 text-black mt-14 mb-14 ml-10 mr-5 xl:ml-40 hover:bg-[#f3f3f3] transition-all'>Stake Now</button>
                     </li>
                 </ul>
             </div>

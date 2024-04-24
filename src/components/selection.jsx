@@ -15,7 +15,7 @@ const Selection = () => {
                 lg:mt-64 lg:mb-44 lg:text-5xl lg:tracking-normal lg:leading-none lg:mx-28
                 xl:mx-48">We pick the networks we <span className="bg-[#b8ff65] rounded-2xl px-2">support</span> meticulously, jump in early and know them inside-out</h2>
             </div>
-            <div className="lg:grid lg:grid-cols-2 lg:mx-24 xl:mx-52">
+            <div className="lg:grid lg:grid-cols-2 lg:mx-24 xl:mx-52 justify-center">
                 <div className="bg-black rounded-3xl h-64 mx-4 flex flex-col items-end
                 lg:h-72 lg:w-96 lg:inline"
                 data-aos="fade-up">

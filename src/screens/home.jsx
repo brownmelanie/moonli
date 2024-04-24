@@ -7,11 +7,13 @@ import GetInTouch from "../components/getInTouch"
 import Navbar from "../components/navbar"
 import Footer from "../components/footer"
 import BackToTopBtn from "../components/buttonUp"
+import ScrollToTop from "../components/scrollToTop"
 
 
 const Home = () => {
     return (
         <>
+            <ScrollToTop/>
             <Navbar/>
             <BackToTopBtn/>
             <Main/>
