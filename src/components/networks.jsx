@@ -1,6 +1,6 @@
 const Networks = () => {
     return (
-        <div id="networks" className="h-[750px] mx-4 mt-32 rounded-3xl bg-[#f3f3f3] lg:mx-10 xl:h-[750px] xl:mt-40">
+        <div id="networks" className="h-[750px] mx-4 mt-32 rounded-3xl bg-[#f3f3f3] lg:mx-20 xl:h-[750px] xl:mt-40">
             <h2 className="px-5 font-DMSans font-extrabold text-4xl text-center pt-16 xl:text-5xl xl:pt-20">Networks</h2>
             <p className="px-4 text-center font-DMSans text-sm mt-7 mb-10 md:mx-6 lg:mx-20 lg:text-base xl:text-xl">We pride ourselves as a boutique validator supporting networks that create real value. We have been in the staking business since 2019 and run validators on Ethereum-, Substrate- and Tendermint-based chains.</p>
             <div className="lg:flex lg:flex-wrap lg:justify-center lg:mt-16">

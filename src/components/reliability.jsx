@@ -3,7 +3,7 @@
 const Reliability = () => {
 
     return (
-        <div id="reliability" className="xl:mx-32">
+        <div id="reliability" className="xl:mx-20">
             <h2 className="font-DMSans font-bold text-4xl ml-10 mb-14 mt-14
             lg:text-6xl lg:mt-52">Reliability</h2>
             <div className="lg:flex lg:items-center">
